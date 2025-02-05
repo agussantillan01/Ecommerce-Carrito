@@ -15,7 +15,6 @@ function App() {
       </Routes>
       </Layout>
       </BrowserRouter>
-      <h1>Ecommerce</h1>
     </div>
   );
 }
